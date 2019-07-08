@@ -1,5 +1,5 @@
 # Image Captioning
-This is an Image Captioning implementation in PyTorch. We implement the paper ["Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"] (https://arxiv.org/abs/1502.03044)
+This is an Image Captioning implementation in PyTorch. We implement the paper ["Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"](https://arxiv.org/abs/1502.03044)
 # Requirements:
 - Python 3.6.8
 - PyTorch 1.0.1
